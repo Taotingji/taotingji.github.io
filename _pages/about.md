@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I'm Tingji Tao. Nice to meet you!
+# About
 
-## 🎓 Education
+##  Education
 - **University of Toronto** (May 2021 – Apr 2025, Expected)  
   Honours Bachelor of Science in **Mathematics and Statistics**  
 - Relevant Courses: Regression Analysis, Time Series Analysis, Big Data Analysis, Statistical Methods for Machine Learning, Categorical Data Analysis.
 
-## 💻 Skills
+##  Skills
 - **Programming:** Python, R, SQL  
 - **Tools & Frameworks:** Git (GitHub), Jupyter Notebook, R Studio, Numpy, PyTorch  
 - **Data Science Techniques:** Machine Learning, Time Series Analysis, Clustering, Predictive Modeling  
 
-## 🏢 Work Experience
+##  Work Experience
 
 ### Huawei Technologies (May 2024 - Sept 2024)  
 **Machine Learning Intern | Toronto, Canada**  
@@ -34,9 +34,9 @@ redirect_from:
 - Applied **Time Series Analysis** and **Clustering** to build predictive models, optimizing model selection using **cross-validation**.  
 
 
-## 📫 Connect with Me
+## Connect with Me
 - **Email:** tao021212@hotmail.com
 - **GitHub:** [taotingji.github.io](https://taotingji.github.io/)
 - **LinkedIn:** https://www.linkedin.com/in/tingji-tao-95508a251/
 
-🌱 *Always learning, exploring, and building cool stuff in Data Science & Machine Learning!*  
+ *Always learning, exploring, and building cool stuff!*  
