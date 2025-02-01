@@ -36,7 +36,7 @@ redirect_from:
 
 ## Connect with Me
 - **Email:** tao021212@hotmail.com
-- **Wechat:** MR-tao09 (../imges/Wechat QRcode.jpg)
+- **Wechat:** MR-tao09 
 - **GitHub:** [taotingji.github.io](https://taotingji.github.io/)
 - **LinkedIn:** https://www.linkedin.com/in/tingji-tao-95508a251/
 
