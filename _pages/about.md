@@ -36,7 +36,7 @@ redirect_from:
 
 ## 📫 Connect with Me
 - **Email:** tao021212@hotmail.com
-- **GitHub:** taotingji.github.io
+- **GitHub:** [taotingji.github.io](https://taotingji.github.io/)
 - **LinkedIn:** https://www.linkedin.com/in/tingji-tao-95508a251/
 
 🌱 *Always learning, exploring, and building cool stuff in Data Science & Machine Learning!*  
